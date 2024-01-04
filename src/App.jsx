@@ -1,7 +1,14 @@
+import FooterComponent from './components/ui/Footer.components';
+import NavbarComponent from './components/ui/Navbar.component';
+
 function App() {
   return (
-    <div className="App">
-      <h3>Crypto App</h3>
+    <div>
+      <NavbarComponent />
+      <div className="wrapper">
+        <h2>wrapper</h2>
+      </div>
+      <FooterComponent />
     </div>
   );
 }
