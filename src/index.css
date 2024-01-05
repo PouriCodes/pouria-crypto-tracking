@@ -9,5 +9,8 @@ body {
 }
 
 .wrapper {
-  background-color: blue;
+  background-color: rgb(163, 129, 241);
+  /* navbar height = 56px */
+  /* footer height = 40px */
+  min-height: calc(100vh - 56px - 40px);
 }

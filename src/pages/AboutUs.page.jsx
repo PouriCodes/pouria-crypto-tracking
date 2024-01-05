@@ -3,7 +3,9 @@ import React from 'react';
 const AboutUsPage = () => {
   return (
     <div>
-      <h2>AboutUsPage</h2>
+      <h5>AboutUsPage</h5>
+      <h5>AboutUsPage</h5>
+      <h5>AboutUsPage</h5>
     </div>
   );
 };
