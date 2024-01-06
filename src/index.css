@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(183, 176, 190);
+  /* background-color: rgb(183, 176, 190); */
 }
 
 .wrapper {
@@ -13,4 +13,9 @@ body {
   /* navbar height = 56px */
   /* footer height = 40px */
   min-height: calc(100vh - 56px - 40px);
+}
+
+.about-img {
+  width: 350px;
+  height: 350px;
 }
