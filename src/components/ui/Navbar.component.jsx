@@ -9,6 +9,7 @@ const NavbarComponent = () => {
 
   const toggleMenu = () => {
     if (window.innerWidth < 992) {
+      // navbar problem,fixed
       btnToggleRef.current.click();
     }
   };
