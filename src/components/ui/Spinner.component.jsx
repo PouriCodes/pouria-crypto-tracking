@@ -1,5 +1,5 @@
-import React from 'react';
-import spinnerImg from '../../assets/images/spinner.gif';
+import React from "react";
+import spinnerImg from "../../assets/images/spinner.gif";
 
 const Spinner = () => {
   return (
@@ -8,4 +8,5 @@ const Spinner = () => {
     </div>
   );
 };
+
 export default Spinner;

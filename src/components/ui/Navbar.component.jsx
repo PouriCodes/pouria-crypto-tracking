@@ -9,7 +9,6 @@ const NavbarComponent = () => {
 
   const toggleMenu = () => {
     if (window.innerWidth < 992) {
-      // navbar problem,fixed
       btnToggleRef.current.click();
     }
   };
@@ -62,3 +61,9 @@ const NavbarComponent = () => {
 };
 
 export default NavbarComponent;
+
+// Routes
+// /
+// /faq
+// /about-us
+// /contact-us
