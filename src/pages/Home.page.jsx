@@ -29,7 +29,7 @@ const HomePage = () => {
         <div className="col-12 text-center">
           <h1>Crypto Tracking by P</h1>
           <h4>A place to search for your next dream</h4>
-          <h4>Good events always accure by you, yourself!</h4>
+          <h4>امیر و رشیدیان، رجایی</h4>
         </div>
       </div>
 
